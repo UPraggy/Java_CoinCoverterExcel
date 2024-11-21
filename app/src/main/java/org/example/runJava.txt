@@ -1,0 +1,6 @@
+javac -d out *.java; java -cp out menuintgpt.Main
+
+
+java -jar CoinCoverterExcel\app\build\libs\app.jar
+
+gradle clean fatJar    
